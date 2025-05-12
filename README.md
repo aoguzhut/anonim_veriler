@@ -54,3 +54,4 @@ Bu komut, betiğin bulunduğu dizinde `anonim_kimlik_verisi.csv` dosyasını olu
 ## Katkıda Bulunma
 
 Katkılarınızı bekliyoruz! Lütfen bir pull request açın veya sorunları bildirin.
+Bu repodaki bütün dosyalar VS Code + Education Github ile kullanılan Gemini 2.5 Pro ile oluşturulmuştur.
